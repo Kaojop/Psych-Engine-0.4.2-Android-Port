@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sadmouse Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sadmouse Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sadmouse Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sadmouse Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sadmouse Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Sadmouse Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neohappysuicidemouse",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "neohappymouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
